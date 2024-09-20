@@ -35,6 +35,3 @@ This project demonstrates basic communication between two actors using the [Prot
     ```bash
     go run main.go
     ```
-
-### Output:
-You should see output similar to:
